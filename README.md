@@ -35,7 +35,7 @@ HTML, CSS, JavaScript, PHP, MySQL (VS Code + XAMPP / localhost)
 ![Billing Flow (3)](artifacts/05_billing_flow3.png)
 
 ## Docs
-- Project synopsis: docs/dbms_project_synopsis.pdf
-- Design artefacts: docs/artefacts_flow_er.pdf
-- Output screenshots: docs/output_screenshots.pdf
+- Project synopsis: [dbms_project_synopsis.pdf](docs/dbms_project_synopsis.pdf)
+- Design artefacts: [artefacts_flow_er.pdf](docs/artefacts_flow_er.pdf)
+- Output screenshots: [output_screenshots.pdf](docs/output_screenshots.pdf)
 
