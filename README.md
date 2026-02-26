@@ -1,2 +1,12 @@
-# water-billing-system
-DBMS web app for customer and water-bill management with automated bill calculation (PHP/MySQL)
+water-billing-system/
+  README.md
+  /docs
+    dbms_project_synopsis.pdf
+    artefacts_flow_er.pdf
+    output_screenshots.pdf
+  /artifacts
+    01_workflow_flowchart.png
+    02_er_diagram.png
+    03_login_home.png
+    04_customer_crud.png
+    05_billing_flow.png
